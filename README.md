@@ -1,2 +1,2 @@
 # Peter
-Full stack developer
+Full Stack Developer
